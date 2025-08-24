@@ -1,13 +1,13 @@
 # Olá! Eu sou o Erick de Souza Dias 👋
 
-Desenvolvedor apaixonado por tecnologia, com foco em C#, .NET e desenvolvimento Android usando Kotlin. Gosto de criar soluções eficientes e elegantes para problemas complexos.
+Técnico de informática apaixonado por tecnologia, com foco em cybersecurity e Python. Gosto de criar soluções eficientes e elegantes para problemas complexos.
 
 ## Sobre Mim
 
-- 💻 Atualmente trabalhando com desenvolvimento de aplicações em **ASP.NET Core** e **Worker Services**.
-- 🌱 Aprendendo mais sobre **desenvolvimento Android com Kotlin** e explorando boas práticas em **.NET**.
-- 🚀 Gosto de me desafiar a aprender novas tecnologias e aplicar padrões de design para criar sistemas escaláveis.
-- 🎯 Foco atual: melhorar minhas habilidades em **Arquitetura de Software** e **Integração Contínua (CI/CD)**.
+- 💻 Estudando para certificação SYCP da Solyd Offensive Security
+- 🌱 Aprendendo mais sobre **desenvolvimento Python** e explorando o **Django**.
+- 🚀 Gosto de me desafiar a aprender novas tecnologias.
+- 🎯 Foco atual: melhorar minhas habilidades em **Python** e **Concluir certificação SYCP**.
 
 ## Habilidades
 
@@ -18,13 +18,12 @@ Desenvolvedor apaixonado por tecnologia, com foco em C#, .NET e desenvolvimento 
 
 ## Projetos
 
-- [Worker Service para Previsão do Tempo](https://github.com/seu-usuario/projeto-previsao-tempo): Worker Service que coleta dados meteorológicos diariamente e salva em um banco de dados.
-- [Sistema de Autenticação com ASP.NET Identity](https://github.com/seu-usuario/projeto-auth): Sistema de login com personalização do ASP.NET Identity, incluindo verificação de login e alteração de senha.
+- [Em breve]
+
 
 ## Contato
 
-- **Email:** [erick.dias@email.com](mailto:erick.dias@email.com)
-- **LinkedIn:** [Erick de Souza Dias](https://linkedin.com/in/seu-usuario)
-- **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
+- **Email:** [tecnicodetideconfianca@gmail.com](mailto:tecnicodetideconfianca@gmail.com)
+- **LinkedIn:** [Erick de Souza Dias](https://www.linkedin.com/in/%C3%A9rick-de-souza-dias-872817191?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWnvH3SPJR3emON%2F%2FcoF24g%3D%3D)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
