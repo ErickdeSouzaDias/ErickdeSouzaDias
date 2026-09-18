@@ -26,4 +26,10 @@ Técnico de informática apaixonado por tecnologia, com foco em cybersecurity e 
 - **Email:** [tecnicodetideconfianca@gmail.com](mailto:tecnicodetideconfianca@gmail.com)
 - **LinkedIn:** [Erick de Souza Dias](https://www.linkedin.com/in/%C3%A9rick-de-souza-dias-872817191?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWnvH3SPJR3emON%2F%2FcoF24g%3D%3D)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickdeSouzaDias&show_icons=true&theme=radical)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickdeSouzaDias&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickdeSouzaDias&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
